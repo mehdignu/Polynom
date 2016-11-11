@@ -5,8 +5,7 @@ import Prog1Tools.IOTools;
 import java.util.Scanner;
 
 /**
- * this is the test class wish give the user the basic menu informations
- * to work with the software
+ * Software for working with Polynoms
  * @author mehdi dridi
  */
 public class Main {
