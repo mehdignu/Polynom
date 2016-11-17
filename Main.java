@@ -59,6 +59,7 @@ public class Main {
 		    		 }else{
 		    			 g = IOTools.readInteger("enter value : ");
 			    		 System.out.print("value is: "+name[w].horner_w(g));
+					 System.out.println("");
 			    		 System.out.println("enter any caracter to continue :");
 			    	        n = s.nextLine();
 		    		 }
